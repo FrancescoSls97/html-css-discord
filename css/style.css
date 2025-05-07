@@ -112,6 +112,13 @@ h1{
     padding: 10px;
 }
 
+.download{
+    background: #3161E0;
+    color: white;
+    padding: 7px;
+    border-radius: 15px;
+}
+
 
 .links{
     background: #23272a;
@@ -121,15 +128,21 @@ h1{
 }
 
 .bigcolumn{
-    background: #F08080;
+    color: white;
     height: 100px;
     width: 35%;
+}
+
+.coltitle{
+    color: #3161E0;
 }
 
 .smallcolumn{
     background: #20B2AA;
     height: 100px;
     width: 10%;
+    display: flex;
+    flex-direction: column;
 }
 
 .bottompage{
