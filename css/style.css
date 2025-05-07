@@ -92,9 +92,10 @@ h1{
 
 
 .easymeet{
-    background: lightgray;
+    /*background-image: url(../img/wave.svg);*/
     display: flex;
     justify-content: center;
+    align-items: center;
     padding: 12px;
 }
 
