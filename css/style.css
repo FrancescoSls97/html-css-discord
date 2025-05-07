@@ -106,30 +106,12 @@ h1{
     padding: 12px;
 }
 
-.pink{
-    background: pink;
-    height: 100px;
-    width: 35%;
-}
-
-.skyblue{
-    background: skyblue;
-    height: 100px;
-    width: 45%;
-}
-
 .reltech{
-    background: lightgrey;
     display: flex;
-    justify-content: center;
+    flex-direction: column;
     padding: 10px;
 }
 
-.reltechimg{
-    background: green;
-    height: 100px;
-    width: 75%;
-}
 
 .links{
     background: #23272a;
