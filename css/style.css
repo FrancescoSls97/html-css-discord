@@ -1,0 +1,126 @@
+/* reset */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* debug */
+
+.debug{
+    *
+    {
+        border: 1px dashed black;
+    }
+}
+
+#ds_head{
+    background-color: lightblue;
+    min-height: 70px;
+    padding: 1rem;
+}
+
+.navbar{
+    background: orange;
+    display: flex;
+    justify-content: space-between;
+}
+
+.jumbo{
+    background: blue;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.bigpicture{
+    background: pink;
+    height: 100px;
+    width: 70%;
+}
+
+.talkspace{
+    background: white;
+    display: flex;
+    justify-content: center;
+    padding: 12px;
+}
+
+.easymeet{
+    background: lightgray;
+    display: flex;
+    justify-content: center;
+    padding: 12px;
+}
+
+.fandom{
+    background: white;
+    display: flex;
+    justify-content: center;
+    padding: 12px;
+}
+
+.pink{
+    background: pink;
+    height: 100px;
+    width: 35%;
+}
+
+.skyblue{
+    background: skyblue;
+    height: 100px;
+    width: 45%;
+}
+
+.reltech{
+    background: lightgrey;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.reltechimg{
+    background: green;
+    height: 100px;
+    width: 75%;
+}
+
+.links{
+    background: #23272a;
+    display: flex;
+    justify-content: center;
+    padding-top: 0px;
+}
+
+.bigcolumn{
+    background: #F08080;
+    height: 100px;
+    width: 35%;
+}
+
+.smallcolumn{
+    background: #20B2AA;
+    height: 100px;
+    width: 10%;
+}
+
+.bottompage{
+    background: #23272a;
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 0px;
+}
+
+.bpbutton{
+    background: aquamarine;
+    display: flex;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    justify-content: space-between;
+    width: 75%;
+}
+
+span{
+    background: pink;
+}
